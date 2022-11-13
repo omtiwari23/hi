@@ -1,1 +1,20 @@
 hi om, how are you ?
+https://github.com/ravdy/maven-hello-world.git
+docker --version
+    3  service docker start
+    4  service docker status
+    5  docker pull ubuntu
+    6  docker images
+    7  docker run
+    8  docker run -it -d ubuntu
+    9  history
+   10  docker run hello-world
+   11  docker images
+   12  docker run -it -d ubuntu
+   13  docker run -it -d hello-world
+   14  docker pull hello-world
+   15  docker login
+   16  docker ps
+   17  docker ps -a
+   18  docker run -it -d hello-world
+   19  docker ps
